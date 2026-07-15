@@ -87,19 +87,23 @@ console.log(`Valor total em stock: ${totalInStock}€`);
 ```
 # 6. Aplicações da Linguagem
 
-Exemplos:
-- Desenvolvimento Web
-- Inteligência Artificial
-- Ciência de Dados
-- Jogos
-- Automação
+- **Desenvolvimento Web** — a aplicação mais comum, tanto no **frontend** (*React, Vue, Angular*) como no **backend** (Node.js*, Express*).
+- **Inteligência Artificial** — bibliotecas como o **TensorFlow.js** permitem *correr* **modelos de machine learning** diretamente no *browser*.
+- **Ciência de Dados** — embora *menos comum que Python*, existem bibliotecas como **Danfo.js** para *análise e manipulação de dados*.
+- **Jogos** — desenvolvimento de **jogos 2D/3D** no *browser* com bibliotecas como **Phaser** ou **Three.js**.
+- **Automação** — *scripts* de **automação de tarefas**, **testes end-to-end** (*Playwright, Cypress*) e **scraping de dados**.
+- **Aplicações móveis** — através de *frameworks* como **React Native**.
+- **Aplicações desktop** — através de *frameworks* como **Electron**.
 
 # 7. Vantagens e Desvantagens
 
-| Vantagens           | Desvantagens           |
+| **Vantagens**           | **Desvantagens**           |
 | :------------------ | :--------------------- |
-| Fácil para aprender | Díficil de aprofeiçoar |
-| Fácil para colocar Frameworks         | Existe uma enorme variedade de Frameworks, constantemente a atualizar              |
+| Fácil para aprender | Difícil de aprofundar (conceitos avançados como `closures`, `this`, `event loop`) |
+| Fácil para instalar *frameworks*         | Existe uma enorme variedade de *frameworks*, constantemente a atualizar              |
+| Corre em todos os browsers sem instalação | Comportamento pode variar ligeiramente entre browsers/motores |
+| Grande ecossistema de bibliotecas (npm) | Tipagem dinâmica pode gerar erros difíceis de detetar |
+| Permite usar a mesma linguagem no frontend e backend | Gestão de assincronia pode ser confusa para iniciantes |
 
 
 # 8. Recursos para Aprender
