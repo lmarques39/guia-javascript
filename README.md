@@ -4,15 +4,15 @@
 - **Descrição**: Explicar a origem e a finalidade da linguagem JavaScript
 
 # 2. Introdução
-## O que é JavaScript?
+## 2.1. O que é JavaScript?
 **JavaScript** é uma linguagem de programação de **scripting**, **interpretada** e de **alto nível**, criada em **1995** por **Brendan Eich** enquanto trabalhava na Netscape. 
 
-## Porque foi criada?
+## 2.2. Porque foi criada?
 Foi desenvolvida originalmente em *apenas 10 dias*, com o objetivo de tornar as páginas web interativas, permitindo que os programadores adicionassem comportamento dinâmico ao HTML e ao CSS, que por si só são estáticos.
 
 Inicialmente chamava-se **Mocha**, depois **LiveScript**, e só mais tarde recebeu o nome **JavaScript** como estratégia de marketing para aproveitar a *popularidade da Java* na época, embora as duas linguagens sejam bastante diferentes em conceito e sintaxe.
 
-## Porque é popular?
+## 2.3. Porque é popular?
 A popularidade do JavaScript deve-se a vários fatores. É a única linguagem **nativamente suportada por todos os browsers**, o que a tornou essencial para o **desenvolvimento web** durante décadas. Com o aparecimento do *Node.js em 2009*, passou a poder ser usada também no lado do *servidor (backend)*, permitindo *usar a mesma linguagem em todo o stack de uma aplicação*. 
 
 Além disso, possui um ecossistema enorme de **bibliotecas** e **frameworks** (como React, Vue, Angular e Express), uma comunidade muito ativa e é relativamente fácil de aprender para iniciantes.
