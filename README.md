@@ -33,14 +33,18 @@ Evolução ao longo do tempo:
 
 
 # 4. Principais Características
+JavaScript possui diversas características que explicam a sua ampla adoção:
 
-Exemplo de lista:
-- Sintaxe simples
-- Multiplataforma
-- Grande comunidade
-- Muitas bibliotecas
-- Código aberto
-- Fácil aprendizagem
+- **Sintaxe simples** — *fácil de ler e escrever*, especialmente para quem *já conhece outras linguagens do estilo C*.
+- **Multiplataforma** — corre em **qualquer sistema operativo**, **browser** ou **servidor** (via *Node.js*).
+- **Grande comunidade** — uma das comunidades de programadores mais ativas do mundo.
+- **Muitas bibliotecas** — *ecossistema vastíssimo* (**npm**), com pacotes para *praticamente qualquer necessidade*.
+- **Código aberto** — o *motor V8* (usado no Chrome e Node.js) e *muitas ferramentas do ecossistema são open source*.
+- **Fácil aprendizagem** — boa linguagem para *iniciantes*, com *muitos recursos* de aprendizagem disponíveis.
+- **Tipagem dinâmica e fraca** — as variáveis **não** têm *tipo fixo*, o que *agiliza a escrita de código* (mas pode gerar erros subtis).
+- **Orientada a eventos** — muito usada para responder a *interações do utilizador* *(cliques, teclas, etc.)*.
+- **Assíncrona** — suporta operações **não bloqueantes** através de *callbacks, promises* e *async/await*.
+
   
 # 5. Exemplos de código
 
