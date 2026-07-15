@@ -48,11 +48,43 @@ JavaScript possui diversas características que explicam a sua ampla adoção:
   
 # 5. Exemplos de código
 
-Dar dois exemplos de código:
 
-- Funcão Hello World
-- Quicksort
+**Exemplo 1** — Assincronia com `async/await` (consumo de uma API).
 
+Mostra a capacidade do JavaScript de lidar com **operações não bloqueantes**, algo essencial no browser e no Node.js:
+```javascript
+async function getUser(id) {
+  try {
+    const response = await fetch(`https://jsonplaceholder.typicode.com/users/${id}`);
+    const user = await response.json();
+    console.log(`Nome: ${user.name} | Email: ${user.email}`);
+  } catch (error) {
+    console.error("Erro ao obter utilizador:", error);
+  }
+}
+
+getUser(1);
+```
+
+**Exemplo 2** — Programação funcional com `map`, `filter` e `reduce`
+
+Mostra a *expressividade e concisão* do JavaScript ao trabalhar com coleções de dados, *sem precisar* de ciclos *for* explícitos:
+
+```javascript
+const products = [
+  { name: "Keyboard", price: 25, inStock: true },
+  { name: "Mouse", price: 10, inStock: false },
+  { name: "Monitor", price: 150, inStock: true },
+];
+
+const totalInStock = products
+  .filter((p) => p.inStock)          // apenas produtos disponíveis
+  .map((p) => p.price)               // extrai os preços
+  .reduce((sum, price) => sum + price, 0); // soma tudo
+
+console.log(`Valor total em stock: ${totalInStock}€`);
+// Resultado: 175€
+```
 # 6. Aplicações da Linguagem
 
 Exemplos:
