@@ -21,9 +21,16 @@ Hoje em dia, JavaScript é usado não só em browsers e servidores, mas também 
 
 
 # 3. História de JavaScript
-- Quem criou
-- Quando surgiu
-- Evolução ao longo do tempo
+**JavaScript** foi criado por **Brendan Eich** em **1995**, enquanto trabalhava na **Netscape Communications**. Foi *desenvolvido em apenas 10 dias* para o navegador Netscape Navigator 2.0, com o **objetivo** de tornar as páginas **web dinâmicas e interativas**.
+
+Evolução ao longo do tempo:
+- **1995** — Criado com o nome **Mocha**, depois renomeado para **LiveScript** e, por fim, **JavaScript**.
+- **1997** — Padronizado pela *ECMA International* sob o nome **ECMAScript (ES1)**, garantindo que diferentes navegadores implementassem a linguagem de forma consistente.
+- **2009** — Lançamento do **Node.js**, que permitiu executar *JavaScript fora do browser*, no *lado do servidor*.
+- **2015** — Lançamento do **ECMAScript 6 (ES6/ES2015)**, uma atualização histórica que trouxe *let/const*, *arrow functions*, *classes*, *módulos*, *promises*, entre outros.
+- **2015 até hoje** — A partir do *ES6*, o **TC39** (*comité responsável pela linguagem*) passou a lançar uma **nova versão anual** (ES2016, ES2017... ES2024), com *melhorias incrementais*.
+- **Atualidade** — JavaScript continua em **constante evolução**, sustentado por uma *comunidade enorme* e por **frameworks/bibliotecas** que se atualizam continuamente.
+
 
 # 4. Principais Características
 
