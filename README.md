@@ -1,4 +1,7 @@
 # 1. Guia Básico de JavaScript
+#javascript #learning
+
+![Logo JavaScript](Imagens/logo-js.png)
 - **Autor**: Luís Marques
 - **Data**: 2026-07-14
 - **Descrição**: Explicar a origem e a finalidade da linguagem JavaScript
