@@ -28,6 +28,7 @@ Evolução ao longo do tempo:
 - **1997** — Padronizado pela *ECMA International* sob o nome **ECMAScript (ES1)**, garantindo que diferentes navegadores implementassem a linguagem de forma consistente.
 - **2009** — Lançamento do **Node.js**, que permitiu executar *JavaScript fora do browser*, no *lado do servidor*.
 - **2015** — Lançamento do **ECMAScript 6 (ES6/ES2015)**, uma atualização histórica que trouxe *let/const*, *arrow functions*, *classes*, *módulos*, *promises*, entre outros.
+- **2012** - A Microsoft lança o ***TypeScript***, um *superset* de **JavaScript** com tipagem estática, criado para facilitar o desenvolvimento de aplicações grandes e complexas.
 - **2015 até hoje** — A partir do *ES6*, o **TC39** (*comité responsável pela linguagem*) passou a lançar uma **nova versão anual** (ES2016, ES2017... ES2024), com *melhorias incrementais*.
 - **Atualidade** — JavaScript continua em **constante evolução**, sustentado por uma *comunidade enorme* e por **frameworks/bibliotecas** que se atualizam continuamente.
 
