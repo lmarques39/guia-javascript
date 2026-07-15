@@ -105,18 +105,26 @@ console.log(`Valor total em stock: ${totalInStock}€`);
 | :------------------ | :--------------------- |
 | Fácil para aprender | Difícil de aprofundar (conceitos avançados como `closures`, `this`, `event loop`) |
 | Fácil para instalar *frameworks*         | Existe uma enorme variedade de *frameworks*, constantemente a atualizar              |
-| Corre em todos os browsers sem instalação | Comportamento pode variar ligeiramente entre browsers/motores |
-| Grande ecossistema de bibliotecas (npm) | Tipagem dinâmica pode gerar erros difíceis de detetar |
-| Permite usar a mesma linguagem no frontend e backend | Gestão de assincronia pode ser confusa para iniciantes |
+| Corre em **todos os browsers** sem instalação | Comportamento pode *variar* ligeiramente entre *browsers/motores* |
+| Grande **ecossistema** de bibliotecas (*npm*) | Tipagem **dinâmica** pode gerar *erros difíceis de detetar* |
+| Permite usar a *mesma linguagem* no **frontend** e **backend** | Gestão de *assincronia* pode ser **confusa** para iniciantes |
 
 
 # 8. Recursos para Aprender
 
-- Documentação oficial (link)
-- Tutoriais (links)
-- Cursos
-- Livros
-- Vídeos
+- **Documentação oficial** — MDN Web Docs — [JavaScript](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
+- **Tutoriais**:
+  - [javascript.info](https://javascript.info/)
+  - [W3Schools](https://www.w3schools.com/js/) — JavaScript Tutorial 
+- **Cursos**:
+  - [freeCodeCamp](https://www.freecodecamp.org/) — JavaScript Algorithms and Data Structures 
+  - [The Odin Project](https://www.theodinproject.com/)
+- Livros:
+  - [Eloquent JavaScript](https://eloquentjavascript.net/) — *Marijn Haverbeke (link para e-Book)*
+  - [You Don't Know JS](https://github.com/getify/you-dont-know-js) — *Kyle Simpson (link para GitHub com e-Book)*
+- Vídeos:
+  - Canal [Traversy Media](https://www.youtube.com/@TraversyMedia/playlists)
+  - [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
   
 # 9. Conclusão
 
