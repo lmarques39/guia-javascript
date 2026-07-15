@@ -1,5 +1,5 @@
 # 1. Guia Básico de JavaScript
-#javascript #learning
+`#javascript` `#learning`
 
 ![Logo JavaScript](Imagens/logo-js.png)
 - **Autor**: Luís Marques
@@ -128,6 +128,6 @@ console.log(`Valor total em stock: ${totalInStock}€`);
   
 # 9. Conclusão
 
-Escreve um pequeno resumo sobre: 
-- Porque a linguagem é importante
-- Em que situações deve ser usada
+**JavaScript** é uma linguagem *fundamental* no panorama tecnológico atual. É a *única linguagem nativamente suportada* por **todos os browsers**, o que a torna *indispensável* para o **desenvolvimento web**, e a sua *expansão para o backend* (com Node.js), *aplicações móveis e desktop* consolidou-a como uma das linguagens *mais versáteis e procuradas no mercado de trabalho*.
+
+Deve ser usada sempre que se pretenda *criar interatividade em páginas web*, *construir aplicações completas (frontend e backend)* com uma única linguagem, ou *desenvolver protótipos rápidos* graças à sua *sintaxe simples* e ao *vasto ecossistema* de *bibliotecas disponível*. É especialmente recomendada para quem está a dar os primeiros passos na programação, dada a sua *curva de aprendizagem suave* e a *enorme quantidade de recursos e comunidade de suporte*.
