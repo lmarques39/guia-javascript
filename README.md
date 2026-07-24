@@ -5,6 +5,21 @@
 - **Autor**: Luís Marques
 - **Data**: 2026-07-14
 - **Descrição**: Explicar a origem e a finalidade da linguagem JavaScript
+---
+## Índice
+- [1. Guia Básico de JavaScript](#1-guia-básico-de-javascript)
+  - [Índice](#índice)
+- [2. Introdução](#2-introdução)
+  - [2.1. O que é JavaScript?](#21-o-que-é-javascript)
+  - [2.2. Porque foi criada?](#22-porque-foi-criada)
+  - [2.3. Porque é popular?](#23-porque-é-popular)
+- [3. História de JavaScript](#3-história-de-javascript)
+- [4. Principais Características](#4-principais-características)
+- [5. Exemplos de código](#5-exemplos-de-código)
+- [6. Aplicações da Linguagem](#6-aplicações-da-linguagem)
+- [7. Vantagens e Desvantagens](#7-vantagens-e-desvantagens)
+- [8. Recursos para Aprender](#8-recursos-para-aprender)
+- [9. Conclusão](#9-conclusão)
 
 # 2. Introdução
 ## 2.1. O que é JavaScript?
